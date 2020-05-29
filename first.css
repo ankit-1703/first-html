@@ -1,0 +1,61 @@
+body{
+	background-color: black;
+	margin: 4%;
+	font-size: 150%;
+}
+header{
+	background-color: none;
+	text-align: center;
+	padding: 15px;
+}
+h1{
+	color: white;
+}
+nav{
+	display: inline;
+	font-size: 150%;
+	font-variant: small-caps;
+	font-style: Arial;
+}
+nav a{
+	text-decoration: none;
+	padding: 4px;
+	color: yellow;
+}
+a:hover{
+	color: red;
+}
+a{
+	color:yellow;
+	text-decoration: none;
+}
+
+h2{
+	background-color: none;
+	color: grey;
+	padding-left: 20px;
+	color: #E5A262;
+}
+div{
+	width: 30%;
+	display: inline-block;
+	float: left;
+	padding: 2px;
+	margin-right: 2%;
+	color: blue;
+	border: white dotted;
+}
+footer{
+	background-color: none;
+	clear: both;
+	color: #E8007E;
+}
+img{
+	width: 100px;
+}
+meter{
+	color: blue;
+}
+b{
+	color: #FF0000;
+}
